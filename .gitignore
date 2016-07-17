@@ -3,3 +3,5 @@ jars
 natives
 out
 javadoc
+.DS_Store
+game_engine.iml
